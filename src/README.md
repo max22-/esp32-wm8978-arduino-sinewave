@@ -1,5 +1,5 @@
-ESP32 TTGO T-Audio sinewave generator
-=====================================
+ESP32 + WM8978 sinewave generator (using the TTGO T-AUDIO board)
+================================================================
 
 
 This is an example Arduino sketch for the TTGO T-Audio board (an ESP32 based board with a WM8978 audio codec, SD-card, RGB Leds, MPU9250, etc.)
